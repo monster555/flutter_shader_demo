@@ -2,7 +2,10 @@
 This repository contains a demo application showcasing the integration of fragment shaders in Flutter.
 
 
-https://github.com/monster555/flutter_shader_demo/assets/32662133/82f62297-227f-42c9-a902-5213613e6836
+
+https://github.com/monster555/flutter_shader_demo/assets/32662133/b05fa456-72e7-4381-8a30-114e01b00398
+
+
 
 Like this project? Consider supporting its upkeep with a coffee. Your generosity is appreciated! ☕
 
