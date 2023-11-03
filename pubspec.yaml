@@ -1,0 +1,34 @@
+name: flutter_shader_demo
+description: A Flutter Shader Demo
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  vector_math: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  # The "shaders" section specifies a list of shader files used for visual effects in
+  # the Flutter Shaders Demo application. These shaders are responsible for providing
+  # various graphical effects and animations to enhance the user interface.
+  shaders:
+    - shaders/fire.frag
+    - shaders/fire_heart.frag
+    - shaders/galaxy.frag
+    - shaders/heartbeat.frag
